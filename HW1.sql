@@ -1,0 +1,1 @@
+SELECT * FROM `schema 3`.`table for homework 1`;
